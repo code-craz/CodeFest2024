@@ -1,0 +1,19 @@
+import pandas
+read the csv file and print the index and key
+create function to suggest products
+   convert to lower case and remove trailing/leading white spaces
+   print category and sub category given by user
+   Filter the dataframe based on user input (case-insensitive) c=c, sc=sc
+   Sort for reviews
+   print at 0:3
+   if not empty display product names, indgredients and price range
+   if empty say none found
+ Get user input
+ Call the function to suggest products, ingredients, and price range  
+
+it saves money and Time
+do more with less
+customise
+adaptive
+market reasearch assistant
+less than a second
